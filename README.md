@@ -13,6 +13,7 @@ In the initial phase of the project, we leveraged the Dialogflow API (v2beta1) t
 **Create FAQ dataset in CSV format**
 
 Following the knowledge base creation, we uploaded a CSV file containing two columns - questions and their respective answers - to a Google Cloud Storage (GCS) bucket. This step facilitated the seamless integration of structured data into our knowledge base system, enhancing accessibility and efficiency in information retrieval for users.
+
 **Create Conversation Profile**
 
 Created a conversation profile, detailing the structure of user interactions. Subsequently, we integrated our FAQ dataset into this profile, establishing a knowledge base for efficient matching of user queries to relevant answers, thus enhancing the conversational system's effectiveness.
