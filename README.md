@@ -4,7 +4,7 @@
 
 **OVERVIEW**
 
-This project, named "FAQ_ASSIST IN CCAI" , utilizes the Dialogflow API to implement a FAQ_ASSIST system. Dialogflow is a natural language understanding platform that makes it easy to design and integrate conversational user interfaces into mobile apps, web applications, devices, bots, and more. The FAQ_ASSIST system built within this project aims to streamline the process of answering frequently asked questions (FAQs) by providing a conversational interface that can understand and respond to user queries in a natural language format.
+This project, named "brldi-ds-capabilities-ccai" , utilizes the Dialogflow API to implement a FAQ_ASSIST system. Dialogflow is a natural language understanding platform that makes it easy to design and integrate conversational user interfaces into mobile apps, web applications, devices, bots, and more. The FAQ_ASSIST system built within this project aims to streamline the process of answering frequently asked questions (FAQs) by providing a conversational interface that can understand and respond to user queries in a natural language format.
 
 **Create knowedge base**
 
