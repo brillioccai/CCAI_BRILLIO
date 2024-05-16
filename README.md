@@ -1,5 +1,7 @@
 # CCAI_BRILLIO
 
+![ccai](https://github.com/brillioccai/CCAI_BRILLIO/assets/169894041/c13a44bc-06cc-45f4-add1-7c3d9654c034)
+
 **FAQ_ASSIST IN CCAI**
 
 **OVERVIEW**
