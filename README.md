@@ -26,13 +26,20 @@ Created the "create_participant" function to define roles within our system, dis
 
 We created a function called "analyze_content_text," where an end-user's question is passed for analysis by the Dialogflow API. Subsequently, it returns the respective answer from the FAQ dataset.
 
-**NOMENCLATURE**
+**Nomenclature**
 
 kb_id = knowledge base id
+
 doc_id = document id
+
 ha_id = human agent id
+
 eu_id = end user id
+
 cp_id = conversation profile id
+
 conv_id = conversation id
+
 ac_text_ha = analyze content text by human agent
+
 ac_text_eu = analyze content text by end user
