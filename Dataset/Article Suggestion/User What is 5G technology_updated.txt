@@ -1,0 +1,10 @@
+User: What is 5G technology?
+Support: 5G is the fifth generation of wireless technology, designed to deliver higher data speeds, lower latency, and more reliable connections.
+User: How does 5G differ from 4G?
+Support: 5G offers faster data speeds, lower latency, and greater capacity compared to 4G.
+User: What are the benefits of 5G?
+Support: 5G offers benefits such as faster download and upload speeds, improved connectivity in crowded areas, support for more devices per square kilometer, and potential for new applications like autonomous vehicles and remote surgery.
+User: Is 5G available worldwide?
+Support: 5G is being rolled out in many countries, but coverage may vary depending on location.
+User: How can I upgrade to a 5G phone?
+Support: To upgrade to a 5G phone, you can purchase a compatible device from your mobile carrier or retailer and activate it on a 5G plan.
