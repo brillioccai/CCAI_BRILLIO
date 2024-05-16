@@ -1,0 +1,10 @@
+nltk
+scikit-learn
+textblob
+matplotlib-venn
+pandas
+google-cloud-storage
+plotly
+nbformat>=4.2.0
+seaborn
+matplotlib
