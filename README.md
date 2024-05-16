@@ -43,3 +43,11 @@ conv_id = conversation id
 ac_text_ha = analyze content text by human agent
 
 ac_text_eu = analyze content text by end user
+
+**Requirements**
+
+To install the required dependencies, run the following command:
+
+```bash
+pip install -r requirements.txt
+
